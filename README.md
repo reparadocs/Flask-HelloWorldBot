@@ -10,7 +10,7 @@ Steps to get up and running:
 
 3) Replace <VERIFY_TOKEN_HERE> with whatever veryify token you will be using
 
-4) Host this somewhere, you need an https URL so I reccommend Heroku if you don't want to deal with that.
+4) Host this somewhere, you need an https URL so I reccommend Heroku if you don't want to deal with that. This should (I think) work with heroku out of the box so https://devcenter.heroku.com/articles/getting-started-with-python#introduction 
 
 5) Finish setting it up (The URL to setup the webhook is /setup and the URL you want to actually receive messages at is /webhook 
 
