@@ -11,9 +11,9 @@ Steps to get up and running:
 
 4) Generate a token for your page
 
-5) In HelloWorldBot.py replace <ACCESS_TOKEN_HERE> with that token
+5) In HelloWorldBot.py replace '\<ACCESS_TOKEN_HERE>' with that token
 
-6) In HelloWorldBot.py replace <VERIFY_TOKEN_HERE> with any string you like
+6) In HelloWorldBot.py replace '\<VERIFY_TOKEN_HERE>' with any string you like
 
 7) Deploy your app, you need a https url, so deploying to Heroku is easiest, should work out of the box
 
