@@ -16,3 +16,5 @@ Steps to get up and running:
 
 6) If you did it correctly, your page should respond to every message from YOU to the page with "Hello World" 
 Note that this will not work for anyone else until you submit your app for review
+
+I don't have much more experience with bots than this, but I would be happy to try and answer any questions you have! You can contact me at reparadocs (at) gmail (dot) com
