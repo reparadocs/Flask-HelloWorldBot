@@ -21,7 +21,8 @@ def webhook():
   elif request.method == 'GET': # For the initial verification
     if request.args.get('hub.verify_token') == '<VERIFY_TOKEN_HERE>':
       return request.args.get('hub.challenge')
-    return "Wrong Verify Token"
+    else:
+      return "Wrong Verify Token"
   return "Hello World" #Not Really Necessary
 
 if __name__ == '__main__':
