@@ -25,4 +25,5 @@ def webhook():
   return "Hello World" #Not Really Necessary
 
 if __name__ == '__main__':
+  # added support for local network
   app.run(port=80,host='0.0.0.0')
